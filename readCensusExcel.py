@@ -1,4 +1,4 @@
-#!/usr/bin/Python3
+#!/usr/bin/env python3
 # readCensusExcel.py - Tabulates population and number of census tracts for
 # each county.
 
